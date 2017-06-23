@@ -1,5 +1,5 @@
 {
-  "name": "http2",
+  "name": "http2-75lb",
   "version": "3.3.6",
   "description": "An HTTP/2 client and server implementation",
   "main": "lib/index.js",
